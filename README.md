@@ -7,7 +7,9 @@
 
 **i) Proposed Approach:**
 We will build the frontend using React to create a responsive user interface. We will integrate a Flask backend with a MongoDB database to manage listings, users, and dealers. Key modules will include search and filters, product details, comparisons, finance tools, and booking forms. 
-ii)Key Features / Modules:
+
+**ii)Key Features / Modules:**
+
 1.Display the picture, name, and cost of EVs, bikes, and scooters.
 
 2. Search & Filters: Brand, price range, fuel type, mileage, and other criteria can be used to filter results.

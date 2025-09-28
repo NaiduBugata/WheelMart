@@ -1,7 +1,3 @@
-Of course. Here is the project description formatted into a professional README file with a clear, organized structure, bold headings, horizontal dividers, and the requested alphabetical section labeling.
-
------
-
 # **WheelMart: An AI-Powered Two-Wheeler Marketplace**
 
 WheelMart is a comprehensive web application designed to create a unified and seamless online marketplace for two-wheelers in India. The project addresses the fragmented user experience for buyers, who currently navigate multiple websites for vehicle research, financing, and reviews, and for dealers, who face challenges in inventory management and lead generation.

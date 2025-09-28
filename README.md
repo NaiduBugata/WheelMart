@@ -1,6 +1,8 @@
 **Project Title :** WheelMart
-Problem Statement Chosen : Build a Two-Wheeler Marketplace Web App Given by Vahan Bazar
-Reason to Choose the Problem Statement:
+
+**Problem Statement Chosen :** Build a Two-Wheeler Marketplace Web App Given by Vahan Bazar
+
+**Reason to Choose the Problem Statement:**
  We chose this Problem Statement because the two-wheeler market in India is one of the biggest and fastest-growing segments. However, the online buying and selling experience is still flawed. Buyers often need to visit multiple dealer websites, use finance calculators, and check review platforms. Dealers also find it hard to manage inventory, leads, and customer engagement.
 
 **i) Proposed Approach:  **
@@ -15,6 +17,7 @@ ii)Key Features / Modules:
 7. Showrooms & Test Rides: A dealer directory and test ride reservation system.
 8. AI chatbot: simple queries 
 9. Price Predictor: predicting fair bike prices for the seller
+
 **c) System Architecture**
 •	Architecture Diagram / Workflow
 

@@ -5,32 +5,44 @@
 **Reason to Choose the Problem Statement:**
  We chose this Problem Statement because the two-wheeler market in India is one of the biggest and fastest-growing segments. However, the online buying and selling experience is still flawed. Buyers often need to visit multiple dealer websites, use finance calculators, and check review platforms. Dealers also find it hard to manage inventory, leads, and customer engagement.
 
-**i) Proposed Approach:  **
+**i) Proposed Approach:**
 We will build the frontend using React to create a responsive user interface. We will integrate a Flask backend with a MongoDB database to manage listings, users, and dealers. Key modules will include search and filters, product details, comparisons, finance tools, and booking forms. 
 ii)Key Features / Modules:
 1.Display the picture, name, and cost of EVs, bikes, and scooters.
+
 2. Search & Filters: Brand, price range, fuel type, mileage, and other criteria can be used to filter results.
+   
 3. Product Page: Offers extensive features, images, discounts, and prices.
+   
 4. Model Comparison: Side-by-side comparison of two or more vehicles.
+   
 5. Financial Tools: EMI and fuel cost calculators.
+   
 6. Used Bikes: Examine or offer for sale used bikes that have verified information.
+    
 7. Showrooms & Test Rides: A dealer directory and test ride reservation system.
-8. AI chatbot: simple queries 
+    
+8. AI chatbot: simple queries
+    
 9. Price Predictor: predicting fair bike prices for the seller
 
 **c) System Architecture**
 •	Architecture Diagram / Workflow
 
-![WhatsApp Image 2025-09-28 at 18 51 49_937cb12e](https://github.com/user-attachments/assets/0dbe164f-280b-461f-b6f6-4741070220d6)
+<img width="740" height="641" alt="image" src="https://github.com/user-attachments/assets/f56a790b-c2e6-494a-ba4c-a35be89acbcb" />
 <img width="264" height="530" alt="image" src="https://github.com/user-attachments/assets/f886cfbc-5aa2-4047-9214-07f56fa824a5" />
 
 
 
 **•	Data Flow Explanation**
 1.Data flow starts with user interaction on the frontend. People browse bikes there. They apply filters or check out detailed product pages. All this happens through a React-based UI. Actions kick things off. Like comparing models. Or calculating EMI. Booking test rides too. Those trigger API requests right away.
+
 2.Backend handles it from there. Using Flask mostly. It processes the requests. Applies business logic. Fetches data or updates stuff as needed. Take the EMI calculator for example. It uses the input values you put in. Comparison pulls up multiple bike specs. Booking form just stores user details in the system.
+
 3.Database comes next. Stores all the data. Things like listings. Users. Dealers. Bookings. Reviews too. Could be relational or NoSQL setup. Queries get optimized. For fast search and filtering. Keeps everything running smooth.
+
 4.External integrations tie in. Showroom maps run on Google Maps API. Payment gateways manage fees. For bookings or dealer subscriptions.
+
 5.Finally responses go back to the UI. Processed data as JSON. Gets rendered into user-friendly interfaces.
 
 **d) Technology Stack :**

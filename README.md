@@ -22,7 +22,8 @@ ii)Major Features / Modules:
 **c) System Architecture**  
 • Architecture Diagram / Workflow  
 
-![WhatsApp Image 2025-09-28 at 18 51 49_937cb12e](https://github.com/user-attachments/assets/0dbe164f-280b-461f-b6f6-4741070220d6)  
+<img width="740" height="641" alt="Screenshot 2025-09-28 195702" src="https://github.com/user-attachments/assets/7cd8db84-0703-431c-9061-7d2ae03e5b64" />
+
 <img width="264" height="530" alt="image" src="https://github.com/user-attachments/assets/f886cfbc-5aa2-4047-9214-07f56fa824a5" />  
 
 • Explanation of Data Flow  
